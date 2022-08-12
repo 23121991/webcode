@@ -1,0 +1,17 @@
+h1{
+    font-style:calc();
+    font-family:fantasy;
+    font-weight: 200;
+    font-feature-settings: "c2sc";
+    
+}
+button{
+    flex-direction: initial;
+    -ms-flex-align: center;
+    font-size: medium;
+
+}
+div{
+ background-color:rgb(220, 235, 245);
+    color :black;
+}
